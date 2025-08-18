@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "WBg87q+Av1Q=",
+  "success": true,
+  "projectFilePath": "d:\\tatehama_musen\\Server\\Tatehama_denwa_Server_kanri\\TatehamaKanriServer\\TatehamaKanriServer.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\yuma1\\.nuget\\packages\\microsoft.aspnetcore.openapi\\9.0.8\\microsoft.aspnetcore.openapi.9.0.8.nupkg.sha512",
+    "C:\\Users\\yuma1\\.nuget\\packages\\microsoft.openapi\\1.6.17\\microsoft.openapi.1.6.17.nupkg.sha512"
+  ],
+  "logs": []
+}
