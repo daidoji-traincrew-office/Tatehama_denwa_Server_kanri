@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TatehamaKanriServer")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e1711b8483b0072ddfa6999fead97c06117a8903")]
 [assembly: System.Reflection.AssemblyProductAttribute("TatehamaKanriServer")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TatehamaKanriServer")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
